@@ -34,7 +34,7 @@ const config = {
     ]
   },
   plugins: [
-    new UglifyJsPlugin(),
+    // new UglifyJsPlugin(),
     new OccurrenceOrderPlugin(),
     new AggressiveMergingPlugin(),
     new DefinePlugin({
