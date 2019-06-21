@@ -132,8 +132,11 @@
     "weinre": "^2.0.0-pre-I0Z7U9OV"
   },
   "dependencies": {
+    "lz-string": "^1.4.4",
     "prop-types": "^15.6.2",
     "react": "^16.6.1",
-    "react-dom": "^16.6.1"
+    "react-dom": "^16.6.1",
+    "shortid": "^2.2.14",
+    "twilio-chat": "^3.2.3"
   }
 }
